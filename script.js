@@ -65,7 +65,7 @@ for(let i=0;i<boxes.length;i++){
                 //set delay
                 setTimeout(()=>{
                     check(boxes);
-                },1);
+                },10);
             }
         }
         else{
